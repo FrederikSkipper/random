@@ -1,0 +1,3 @@
+/Users/frederikskipper-andersen/CLionProjects/sus/cmake-build-debug/CMakeFiles/sus.dir
+/Users/frederikskipper-andersen/CLionProjects/sus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/frederikskipper-andersen/CLionProjects/sus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
